@@ -37,9 +37,8 @@ except KeyboardInterrupt:
     print("\n\n" + chr(27)+"[1;31m","[-]" + chr(27)+"[0m", "The process has been interrupted :(\n")
 
 except ModuleNotFoundError as error:
-    print("\n\n" + chr(27)+"[1;31m","[-]" + chr(27)+"[0m", "Modules are missing :(\n")
+    print("\n" + chr(27)+"[1;31m","[-]" + chr(27)+"[0m", " Modules are missing :(")
     print(chr(27)+"[1;33m","[*]",chr(27)+"[0m", error)
-    print(chr(27)+"[1;33m","[*]",chr(27)+"[0m" + " Verify if the directory 'modules' exists")
 
 except Exception as error:
-    print("\n\n" + chr(27)+"[1;31m","[-]" + chr(27)+"[0m", f"{error} :( \n")
+    print("\n" + chr(27)+"[1;31m","[-]" + chr(27)+"[0m", f"{error} :( \n")
