@@ -1,8 +1,8 @@
-from  modules import console
-from  modules import info
-from  modules import insertions
-
 try:
+    from  modules import console
+    from  modules import info
+    from  modules import insertions
+   
     console.print_available_dbs()
     dbms_name = console.get_selected_db()
 
@@ -35,6 +35,11 @@ try:
 
 except KeyboardInterrupt:
     print("\n\n" + chr(27)+"[1;31m","[-]" + chr(27)+"[0m", "The process has been interrupted :(\n")
-    
-except:
-    print("\n\n" + chr(27)+"[1;31m","[-]" + chr(27)+"[0m", "Something else went wrong :( \n")
+
+except ModuleNotFoundError as error:
+    print("\n\n" + chr(27)+"[1;31m","[-]" + chr(27)+"[0m", "Modules are missing :(\n")
+    print(chr(27)+"[1;33m","[*]",chr(27)+"[0m", error)
+    print(chr(27)+"[1;33m","[*]",chr(27)+"[0m" + " Verify if the directory 'modules' exists")
+
+except Exception as error:
+    print("\n\n" + chr(27)+"[1;31m","[-]" + chr(27)+"[0m", f"{error} :( \n")

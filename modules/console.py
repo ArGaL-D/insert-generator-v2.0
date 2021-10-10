@@ -68,7 +68,7 @@ def __clear_console():
 #
 
 def print_available_dbs():
-    __clear_console()
+    #__clear_console()
     
     print(chr(27)+"[1;32m","[+]", chr(27)+"[1;31m","Which DB are you going to use?", chr(27)+"[0m")
     for i in range (len(__db_list)):
