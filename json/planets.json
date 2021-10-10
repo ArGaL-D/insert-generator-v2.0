@@ -1,0 +1,13 @@
+[
+    {"name": "Earth"},
+    {"name": "Uranus"},
+    {"name": "Neptune"},
+    {"name": "Saturn"},
+    {"name": "Jupiter"},
+    {"name": "Mercury"},
+    {"name": "Venus"},
+    {"name": "Mars"},
+    {"name": "Pluto"},
+    {"name": "Sun"},
+    {"name": "Moon"}
+]

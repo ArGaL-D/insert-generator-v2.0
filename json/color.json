@@ -1,0 +1,446 @@
+[
+    {   "name": "antiquewhite", 
+        "headecimal": "#faebd7"
+    },
+    {   "name": "aliceblue", 
+        "headecimal": "#f0f8ff"
+    },
+    {   "name": "aqua", 
+        "headecimal": "#00ffff"
+    },
+    {   "name": "aquamarine", 
+        "headecimal": "#7fffd4"
+    },
+    {   "name": "azure", 
+        "headecimal": "#f0ffff"
+    },
+    {   "name": "beige", 
+        "headecimal": "#f5f5dc"
+    },
+    {   "name": "bisque", 
+        "headecimal": "#ffe4c4"
+    },
+    {   "name": "black", 
+        "headecimal": "#000000"
+    },
+    {   "name": "blanchedalmond", 
+        "headecimal": "#ffebcd"
+    },
+    {   "name": "blue", 
+        "headecimal": "#0000ff"
+    },
+    {   "name": "blueviolet", 
+        "headecimal": "#8a2be2"
+    },
+    {   "name": "brown", 
+        "headecimal": "#a52a2a"
+    },
+    {   "name": "burlywood", 
+        "headecimal": "#deb887"
+    },
+    {   "name": "cadetblue", 
+        "headecimal": "#5f9ea0"
+    },
+    {   "name": "chartreuse", 
+        "headecimal": "#7fff00"
+    },
+    {   "name": "chocolate", 
+        "headecimal": "#d2691e"
+    },
+    {   "name": "coral", 
+        "headecimal": "#ff7f50"
+    },
+    {   "name": "cornflowerblue", 
+        "headecimal": "#6495ed"
+    },
+    {   "name": "cornsilk", 
+        "headecimal": "#fff8dc"
+    },
+    {   "name": "crimson", 
+        "headecimal": "#dc143c"
+    },
+    {   "name": "cyan", 
+        "headecimal": "#00ffff"
+    },
+    {   "name": "darkblue", 
+        "headecimal": "#00008b"
+    },
+    {   "name": "darkcyan", 
+        "headecimal": "#008b8b"
+    },
+    {   "name": "darkgoldenrod", 
+        "headecimal": "#b8860b"
+    },
+    {   "name": "darkgray", 
+        "headecimal": "#a9a9a9"
+    },
+    {   "name": "darkgreen", 
+        "headecimal": "#006400"
+    },
+    {   "name": "darkgrey", 
+        "headecimal": "#a9a9a9"
+    },
+    {   "name": "darkkhaki", 
+        "headecimal": "#bdb76b"
+    },
+    {   "name": "darkmagenta", 
+        "headecimal": "#8b008b"
+    },
+    {   "name": "darkolivegreen", 
+        "headecimal": "#556b2f"
+    },
+    {   "name": "darkorange", 
+        "headecimal": "#ff8c00"
+    },
+    {   "name": "darkorchid", 
+        "headecimal": "#9932cc"
+    },
+    {   "name": "darkred", 
+        "headecimal": "#8b0000"
+    },
+    {   "name": "darksalmon", 
+        "headecimal": "#e9967a"
+    },
+    {   "name": "darkseagreen", 
+        "headecimal": "#8fbc8f"
+    },
+    {   "name": "darkslateblue", 
+        "headecimal": "#483d8b"
+    },
+    {   "name": "darkslategray", 
+        "headecimal": "#2f4f4f"
+    },
+    {   "name": "darkslategrey", 
+        "headecimal": "#2f4f4f"
+    },
+    {   "name": "darkturquoise", 
+        "headecimal": "#00ced1"
+    },
+    {   "name": "darkviolet", 
+        "headecimal": "#9400d3"
+    },
+    {   "name": "deeppink", 
+        "headecimal": "#ff1493"
+    },
+    {   "name": "deepskyblue", 
+        "headecimal": "#00bfff"
+    },
+    {   "name": "dimgray", 
+        "headecimal": "#696969"
+    },
+    {   "name": "dimgrey", 
+        "headecimal": "#696969"
+    },
+    {   "name": "dodgerblue", 
+        "headecimal": "#1e90ff"
+    },
+    {   "name": "firebrick", 
+        "headecimal": "#b22222"
+    },
+    {   "name": "floralwhite", 
+        "headecimal": "#fffaf0"
+    },
+    {   "name": "forestgreen", 
+        "headecimal": "#228b22"
+    },
+    {   "name": "fuchsia", 
+        "headecimal": "#ff00ff"
+    },
+    {   "name": "gainsboro", 
+        "headecimal": "#dcdcdc"
+    },
+    {   "name": "ghostwhite", 
+        "headecimal": "#f8f8ff"
+    },
+    {   "name": "goldenrod", 
+        "headecimal": "#daa520"
+    },
+    {   "name": "gold", 
+        "headecimal": "#ffd700"
+    },
+    {   "name": "gray", 
+        "headecimal": "#808080"
+    },
+    {   "name": "green", 
+        "headecimal": "#008000"
+    },
+    {   "name": "greenyellow", 
+        "headecimal": "#adff2f"
+    },
+    {   "name": "grey", 
+        "headecimal": "#808080"
+    },
+    {   "name": "honeydew", 
+        "headecimal": "#f0fff0"
+    },
+    {   "name": "hotpink", 
+        "headecimal": "#ff69b4"
+    },
+    {   "name": "indianred", 
+        "headecimal": "#cd5c5c"
+    },
+    {   "name": "indigo", 
+        "headecimal": "#4b0082"
+    },
+    {   "name": "ivory", 
+        "headecimal": "#fffff0"
+    },
+    {   "name": "khaki", 
+        "headecimal": "#f0e68c"
+    },
+    {   "name": "lavenderblush", 
+        "headecimal": "#fff0f5"
+    },
+    {   "name": "lavender", 
+        "headecimal": "#e6e6fa"
+    },
+    {   "name": "lawngreen", 
+        "headecimal": "#7cfc00"
+    },
+    {   "name": "lemonchiffon", 
+        "headecimal": "#fffacd"
+    },
+    {   "name": "lightblue", 
+        "headecimal": "#add8e6"
+    },
+    {   "name": "lightcoral", 
+        "headecimal": "#f08080"
+    },
+    {   "name": "lightcyan", 
+        "headecimal": "#e0ffff"
+    },
+    {   "name": "lightgoldenrodyellow", 
+        "headecimal": "#fafad2"
+    },
+    {   "name": "lightgray", 
+        "headecimal": "#d3d3d3"
+    },
+    {   "name": "lightgreen", 
+        "headecimal": "#90ee90"
+    },
+    {   "name": "lightgrey", 
+        "headecimal": "#d3d3d3"
+    },
+    {   "name": "lightpink", 
+        "headecimal": "#ffb6c1"
+    },
+    {   "name": "lightsalmon", 
+        "headecimal": "#ffa07a"
+    },
+    {   "name": "lightseagreen", 
+        "headecimal": "#20b2aa"
+    },
+    {   "name": "lightskyblue", 
+        "headecimal": "#87cefa"
+    },
+    {   "name": "lightslategray", 
+        "headecimal": "#778899"
+    },
+    {   "name": "lightslategrey", 
+        "headecimal": "#778899"
+    },
+    {   "name": "lightsteelblue", 
+        "headecimal": "#b0c4de"
+    },
+    {   "name": "lightyellow", 
+        "headecimal": "#ffffe0"
+    },
+    {   "name": "lime", 
+        "headecimal": "#00ff00"
+    },
+    {   "name": "limegreen", 
+        "headecimal": "#32cd32"
+    },
+    {   "name": "linen", 
+        "headecimal": "#faf0e6"
+    },
+    {   "name": "magenta", 
+        "headecimal": "#ff00ff"
+    },
+    {   "name": "maroon", 
+        "headecimal": "#800000"
+    },
+    {   "name": "mediumaquamarine", 
+        "headecimal": "#66cdaa"
+    },
+    {   "name": "mediumblue", 
+        "headecimal": "#0000cd"
+    },
+    {   "name": "mediumorchid", 
+        "headecimal": "#ba55d3"
+    },
+    {   "name": "mediumpurple", 
+        "headecimal": "#9370db"
+    },
+    {   "name": "mediumseagreen", 
+        "headecimal": "#3cb371"
+    },
+    {   "name": "mediumslateblue", 
+        "headecimal": "#7b68ee"
+    },
+    {   "name": "mediumspringgreen", 
+        "headecimal": "#00fa9a"
+    },
+    {   "name": "mediumturquoise", 
+        "headecimal": "#48d1cc"
+    },
+    {   "name": "mediumvioletred", 
+        "headecimal": "#c71585"
+    },
+    {   "name": "midnightblue", 
+        "headecimal": "#191970"
+    },
+    {   "name": "mintcream", 
+        "headecimal": "#f5fffa"
+    },
+    {   "name": "mistyrose", 
+        "headecimal": "#ffe4e1"
+    },
+    {   "name": "moccasin", 
+        "headecimal": "#ffe4b5"
+    },
+    {   "name": "navajowhite", 
+        "headecimal": "#ffdead"
+    },
+    {   "name": "navy", 
+        "headecimal": "#000080"
+    },
+    {   "name": "oldlace", 
+        "headecimal": "#fdf5e6"
+    },
+    {   "name": "olive", 
+        "headecimal": "#808000"
+    },
+    {   "name": "olivedrab", 
+        "headecimal": "#6b8e23"
+    },
+    {   "name": "orange", 
+        "headecimal": "#ffa500"
+    },
+    {   "name": "orangered", 
+        "headecimal": "#ff4500"
+    },
+    {   "name": "orchid", 
+        "headecimal": "#da70d6"
+    },
+    {   "name": "palegoldenrod", 
+        "headecimal": "#eee8aa"
+    },
+    {   "name": "palegreen", 
+        "headecimal": "#98fb98"
+    },
+    {   "name": "paleturquoise", 
+        "headecimal": "#afeeee"
+    },
+    {   "name": "palevioletred", 
+        "headecimal": "#db7093"
+    },
+    {   "name": "papayawhip", 
+        "headecimal": "#ffefd5"
+    },
+    {   "name": "peachpuff", 
+        "headecimal": "#ffdab9"
+    },
+    {   "name": "peru", 
+        "headecimal": "#cd853f"
+    },
+    {   "name": "pink", 
+        "headecimal": "#ffc0cb"
+    },
+    {   "name": "plum", 
+        "headecimal": "#dda0dd"
+    },
+    {   "name": "powderblue", 
+        "headecimal": "#b0e0e6"
+    },
+    {   "name": "purple", 
+        "headecimal": "#800080"
+    },
+    {   "name": "rebeccapurple", 
+        "headecimal": "#663399"
+    },
+    {   "name": "red", 
+        "headecimal": "#ff0000"
+    },
+    {   "name": "rosybrown", 
+        "headecimal": "#bc8f8f"
+    },
+    {   "name": "royalblue", 
+        "headecimal": "#4169e1"
+    },
+    {   "name": "saddlebrown", 
+        "headecimal": "#8b4513"
+    },
+    {   "name": "salmon", 
+        "headecimal": "#fa8072"
+    },
+    {   "name": "sandybrown", 
+        "headecimal": "#f4a460"
+    },
+    {   "name": "seagreen", 
+        "headecimal": "#2e8b57"
+    },
+    {   "name": "seashell", 
+        "headecimal": "#fff5ee"
+    },
+    {   "name": "sienna", 
+        "headecimal": "#a0522d"
+    },
+    {   "name": "silver", 
+        "headecimal": "#c0c0c0"
+    },
+    {   "name": "skyblue", 
+        "headecimal": "#87ceeb"
+    },
+    {   "name": "slateblue", 
+        "headecimal": "#6a5acd"
+    },
+    {   "name": "slategray", 
+        "headecimal": "#708090"
+    },
+    {   "name": "slategrey", 
+        "headecimal": "#708090"
+    },
+    {   "name": "snow", 
+        "headecimal": "#fffafa"
+    },
+    {   "name": "springgreen", 
+        "headecimal": "#00ff7f"
+    },
+    {   "name": "steelblue", 
+        "headecimal": "#4682b4"
+    },
+    {   "name": "tan", 
+        "headecimal": "#d2b48c"
+    },
+    {   "name": "teal", 
+        "headecimal": "#008080"
+    },
+    {   "name": "thistle", 
+        "headecimal": "#d8bfd8"
+    },
+    {   "name": "tomato", 
+        "headecimal": "#ff6347"
+    },
+    {   "name": "turquoise", 
+        "headecimal": "#40e0d0"
+    },
+    {   "name": "violet", 
+        "headecimal": "#ee82ee"
+    },
+    {   "name": "wheat", 
+        "headecimal": "#f5deb3"
+    },
+    {   "name": "white", 
+        "headecimal": "#ffffff"
+    },
+    {   "name": "whitesmoke", 
+        "headecimal": "#f5f5f5"
+    },
+    {   "name": "yellow", 
+        "headecimal": "#ffff00"
+    },
+    {   "name": "yellowgreen",
+        "headecimal": "#9acd32"
+    }
+]
