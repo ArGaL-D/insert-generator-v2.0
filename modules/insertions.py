@@ -5,6 +5,8 @@ import random
 import json
 import datetime
 
+from tqdm.std import trange
+
 def create_sqlFile(dbInfo):
     # SQL - File
     sqlFile = open(f'{dbInfo["tbName"]}.sql',"w")
@@ -12,7 +14,7 @@ def create_sqlFile(dbInfo):
     if dbInfo["dbms"] == "mariadb" or dbInfo["dbms"] == "mysql":
         sqlFile.write(f"USE {dbInfo['dbName']};\n")
 
-    for i in tqdm(range(dbInfo["insertions"])):
+    for i in trange (dbInfo["insertions"]):
         value_field = []
         tmp_name = []
 

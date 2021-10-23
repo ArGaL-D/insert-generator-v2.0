@@ -137,8 +137,8 @@ def get_selected_fields(fields):
     options_list = __options_list()
 
     for field in fields:
-        while True:                    
-            print(chr(27)+"[1;32m","[+]",chr(27)+f"[1;32m",f"Field [{field}]... ",chr(27)+"[0m", end="")
+        while True:                                
+            print(chr(27)+"[1;32m","[+]",chr(27)+f"[1;32m","[" + chr(27)+"[1;33m" + f"{field}" + chr(27)+f"[1;32m"+"]"+chr(27) + "[0m",end=" ")
             #print('[',chr(27)+"[1;33m",f'{field}',chr(27)+"[0m",']')
             value = input("")
 

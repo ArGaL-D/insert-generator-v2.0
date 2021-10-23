@@ -12,11 +12,11 @@ try:
     tb_fields = info.tb_fields()
 
     if  not console.json_directory_exists:
-        print("\n" + chr(27)+"[1;31m","[-]" + chr(27)+"[0m", "Directory 'json' does not exist :(\n")
+        print("\n" + chr(27)+"[1;33m","[-]" + chr(27)+"[0m", "Directory 'json' does not exist :(\n")
     
     if not console.json_files_exist:
-        print(chr(27)+"[1;31m","[-]" + chr(27)+"[0m", " The 'json' directory is empty:(\n")
-        print(chr(27)+"[1;31m","[-]" + chr(27)+"[0m", " There are less options:(\n")
+        print(chr(27)+"[1;33m","[-]" + chr(27)+"[0m", "The 'json' directory is empty:(\n")
+        print(chr(27)+"[1;33m","[-]" + chr(27)+"[0m", "There are less options:(\n")
 
     console.print_available_fields()    
     fields_selected = console.get_selected_fields(tb_fields)
@@ -38,7 +38,6 @@ except KeyboardInterrupt:
 
 except ModuleNotFoundError as error:
     print("\n" + chr(27)+"[1;31m","[-]" + chr(27)+"[0m", " Modules are missing :(")
-    print(chr(27)+"[1;33m","[*]",chr(27)+"[0m", error)
-
+    print(chr(27)+"[1;33m","[*]",chr(27)+"[0m", error,"\n")    
 except Exception as error:
     print("\n" + chr(27)+"[1;31m","[-]" + chr(27)+"[0m", f"{error} :( \n")
