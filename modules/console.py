@@ -18,7 +18,8 @@ __extra_options = [
     'number',
     'price',
     'lorem ipsum',
-    'id'
+    'id',
+    'email'
     ]
 
 def __json_files_exist():
